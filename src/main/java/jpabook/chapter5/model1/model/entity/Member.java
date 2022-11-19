@@ -31,6 +31,7 @@ public class Member {
     private String zipcode;
 
     public void setTeam(Team team) {
+
         //기존 팀과의 관계를 제거 - 일종의 안전장치
         if (this.team != null) {
             this.team.getMembers().remove(this);
