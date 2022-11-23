@@ -1,4 +1,4 @@
-package jpabook.chapter7.model3.model2;
+package jpabook.chapter7.model3;
 
 import javax.persistence.*;
 
