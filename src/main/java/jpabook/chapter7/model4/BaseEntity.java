@@ -9,5 +9,6 @@ public abstract class BaseEntity {
 
     @Id @GeneratedValue
     private Long id;
+
     private String name;
 }
