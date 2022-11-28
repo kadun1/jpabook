@@ -29,3 +29,5 @@ c
 3src/main/java/jpabook/chapter5/model3/Category.java,2\e\2e782a57e76eba2619dc5d059ace82b986745fef
 c
 3src/main/java/jpabook/chapter5/model3/Delivery.java,e\9\e98e22762128c2980c336288d32d2dab47736f72
+_
+/src/main/java/jpabook/chapter7/model2/Item.java,e\0\e060ac0582376d9a97ecb7aa1c379318cfae251e
