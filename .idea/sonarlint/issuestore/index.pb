@@ -31,3 +31,9 @@ c
 3src/main/java/jpabook/chapter5/model3/Delivery.java,e\9\e98e22762128c2980c336288d32d2dab47736f72
 _
 /src/main/java/jpabook/chapter7/model2/Item.java,e\0\e060ac0582376d9a97ecb7aa1c379318cfae251e
+_
+/src/main/java/jpabook/chapter7/model2/Book.java,0\2\02d013479da8b4c1153632fc45d482d3106f65e4
+_
+/src/main/java/jpabook/chapter7/model3/Item.java,b\3\b342825e91bbc2a6f4957ce30d9ed3233891ce41
+e
+5src/main/java/jpabook/chapter7/model4/BaseEntity.java,9\2\925a9fd3a2727fcaf43a50f6f184102989d451bc

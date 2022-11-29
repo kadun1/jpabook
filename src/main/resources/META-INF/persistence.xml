@@ -5,6 +5,7 @@
 <!--        <class>jpabook.start.Member</class>-->
         <class>jpabook.chapter5.model1.model.entity.Team</class>
         <class>jpabook.chapter5.model2.Item</class>
+        <class>jpabook.chapter7.model7.GrandChildId</class>
         <properties>
             <!--필수속성-->
             <property name="javax.persistence.jdbc.driver" value="org.h2.Driver"/>
