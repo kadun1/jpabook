@@ -37,3 +37,13 @@ _
 /src/main/java/jpabook/chapter7/model3/Item.java,b\3\b342825e91bbc2a6f4957ce30d9ed3233891ce41
 e
 5src/main/java/jpabook/chapter7/model4/BaseEntity.java,9\2\925a9fd3a2727fcaf43a50f6f184102989d451bc
+`
+0src/main/java/jpabook/chapter7/model5/Child.java,2\3\23d7f968a84820738d48eb0b3f5c5e329928aafa
+_
+/src/main/java/jpabook/chapter7/model6/Main.java,b\c\bcfbee1ac43256885cf40cc31f1bc326597b226f
+a
+1src/main/java/jpabook/chapter7/model4/Member.java,f\6\f605280440cef4227056359e2f49242e53604281
+a
+1src/main/java/jpabook/chapter7/model5/Parent.java,9\d\9dcdb820f37116dd93576ae0397990c624bfe3e7
+c
+3src/main/java/jpabook/chapter7/model5/ParentId.java,7\7\778a904c0c5c5bbeb5459c36eedeaa369d74b6a2

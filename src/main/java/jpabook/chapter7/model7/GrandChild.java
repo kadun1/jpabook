@@ -17,7 +17,6 @@ public class GrandChild {
     @Id
     @Column(name = "GRANDCHILD_ID")
     private String id;
-
     private String name;
 
 }
