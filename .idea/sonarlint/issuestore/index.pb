@@ -75,3 +75,7 @@ a
 0src/main/java/jpabook/chapter5/model3/Order.java,2\e\2e58fe9174e486b484d67fdb5664d26e9e1ee1f4
 d
 4src/main/java/jpabook/chapter5/model3/OrderItem.java,3\f\3f26a1600d5966c7774f7b6c65054d5470bb9d4e
+f
+6src/main/java/jpabook/chapter7/model9/BoardDetail.java,4\2\42d1e1d0fe3487c9bd59cd850398304d42a66e5c
+b
+2src/main/java/jpabook/chapter7/model10/Parent.java,6\0\6074d28d66895dd1d136e0253ffe841c63cc9a25
