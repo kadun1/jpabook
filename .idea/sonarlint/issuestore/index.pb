@@ -79,3 +79,9 @@ f
 6src/main/java/jpabook/chapter7/model9/BoardDetail.java,4\2\42d1e1d0fe3487c9bd59cd850398304d42a66e5c
 b
 2src/main/java/jpabook/chapter7/model10/Parent.java,6\0\6074d28d66895dd1d136e0253ffe841c63cc9a25
+a
+1src/main/java/jpabook/chapter7/model10/Child.java,1\0\1034453597432a3eb419af42a83d65c187278014
+b
+2src/main/java/jpabook/chapter7/model11/Parent.java,9\c\9c9923537a7e88d44d8050a34511e56b632f48a9
+a
+1src/main/java/jpabook/chapter7/model11/Child.java,5\c\5c9690c1f3555bcf2b9786154ccd66fb2d4a9d92
