@@ -11,4 +11,5 @@ public class Order {
 
     @Id
     private Long id;
+
 }

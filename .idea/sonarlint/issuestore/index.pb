@@ -85,3 +85,9 @@ b
 2src/main/java/jpabook/chapter7/model11/Parent.java,9\c\9c9923537a7e88d44d8050a34511e56b632f48a9
 a
 1src/main/java/jpabook/chapter7/model11/Child.java,5\c\5c9690c1f3555bcf2b9786154ccd66fb2d4a9d92
+b
+2src/main/java/jpabook/chapter7/model12/Parent.java,3\e\3e3ce7047de94fd8d225e7a4d1c33f2b63570d2c
+a
+1src/main/java/jpabook/chapter7/model12/Child.java,3\1\310e464b229386f690b975960bad2865200b94e3
+b
+2src/main/java/jpabook/chapter7/model13/Parent.java,6\b\6b142d79613ca6a98b9852d18b72ca2df3cb5cdc
