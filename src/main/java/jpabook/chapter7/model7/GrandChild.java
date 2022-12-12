@@ -10,7 +10,8 @@ public class GrandChild {
     @ManyToOne
     @JoinColumns({
             @JoinColumn(name = "PARENT_ID"),
-            @JoinColumn(name = "CHILD_ID")})
+            @JoinColumn(name = "CHILD_ID")
+    })
     private Child child;
 
     @Id
