@@ -89,3 +89,9 @@ b
 -src/main/java/jpabook/model/entity/Order.java,f\8\f87d9c25dde32997ee416989107c89038da4870e
 e
 5src/main/java/jpabook/model/entity/item/Category.java,f\c\fc7080374091d0a7b9f48739fce34d23c8b0f888
+a
+1src/main/java/jpabook/chapter7/model13/Child.java,f\e\fe413f5fde3e1c7bf8ee661cc107240884e51694
+b
+2src/main/java/jpabook/chapter7/model13/Parent.java,6\b\6b142d79613ca6a98b9852d18b72ca2df3cb5cdc
+a
+1src/main/java/jpabook/chapter7/model12/Child.java,3\1\310e464b229386f690b975960bad2865200b94e3
