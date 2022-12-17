@@ -81,8 +81,6 @@ a
 1src/main/java/jpabook/model/entity/item/Book.java,6\b\6bf6fdbd67044f9a3737f3714d6bf863095e55f8
 b
 2src/main/java/jpabook/model/entity/item/Movie.java,f\3\f3e714df703180d0ac47f258ba43a8e2060334fa
-b
-2src/main/java/jpabook/model/entity/BaseEntity.java,1\9\190381b92167c76a27aa9bbe21eef27e8235e5b1
 ^
 .src/main/java/jpabook/model/entity/Member.java,4\6\4671ea5e3d008cc3b06120c425896bbb37051936
 ]
