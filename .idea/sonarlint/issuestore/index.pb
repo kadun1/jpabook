@@ -97,3 +97,5 @@ l
 <src/main/java/jpabook/chapter5/model1/model/entity/Team.java,0\e\0e75fbfcd9f5c2b719ed30d01837a4f2e144844d
 l
 <src/main/java/jpabook/chapter5/model1/model/entity/Item.java,c\c\ccf79b9bbe730eea916ffc04261b6dadea960ce5
+n
+>src/main/java/jpabook/chapter5/model1/model/entity/Member.java,1\a\1a81235c1caca78611ca64d77fa003308d151512
