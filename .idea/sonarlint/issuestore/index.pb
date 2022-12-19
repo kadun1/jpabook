@@ -24,8 +24,6 @@ c
 _
 /src/main/java/jpabook/chapter7/model2/Item.java,e\0\e060ac0582376d9a97ecb7aa1c379318cfae251e
 _
-/src/main/java/jpabook/chapter7/model2/Book.java,0\2\02d013479da8b4c1153632fc45d482d3106f65e4
-_
 /src/main/java/jpabook/chapter7/model3/Item.java,b\3\b342825e91bbc2a6f4957ce30d9ed3233891ce41
 e
 5src/main/java/jpabook/chapter7/model4/BaseEntity.java,9\2\925a9fd3a2727fcaf43a50f6f184102989d451bc
@@ -97,3 +95,5 @@ l
 <src/main/java/jpabook/chapter5/model1/maintest/TestMain.java,5\9\59b68f5751308c385b844bcb5a76581c5067e06f
 l
 <src/main/java/jpabook/chapter5/model1/model/entity/Team.java,0\e\0e75fbfcd9f5c2b719ed30d01837a4f2e144844d
+l
+<src/main/java/jpabook/chapter5/model1/model/entity/Item.java,c\c\ccf79b9bbe730eea916ffc04261b6dadea960ce5
