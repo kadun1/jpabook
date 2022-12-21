@@ -99,3 +99,5 @@ n
 >src/main/java/jpabook/chapter5/model1/model/entity/Member.java,1\a\1a81235c1caca78611ca64d77fa003308d151512
 m
 =src/main/java/jpabook/chapter5/model1/model/entity/Order.java,8\5\855a43d98f6e23658d96fbaad901fe48d4dd20ed
+q
+Asrc/main/java/jpabook/chapter5/model1/model/entity/OrderItem.java,6\4\6400afaf7b3791b4fb0f0c56330a79e61c7eba84
