@@ -3,8 +3,6 @@ a
 1src/main/java/jpabook/chapter5/model2/Member.java,6\c\6c04b9c36e6fb30e91225a332305db893e33f1b3
 `
 0src/main/java/jpabook/chapter5/model2/Order.java,b\8\b8c029bab754c874bb5f291edee3415616e82a20
-d
-4src/main/java/jpabook/chapter5/model2/OrderItem.java,f\1\f13b8d0dd47213d259eccaa85da2a48f43741852
 h
 8src/main/java/jpabook/chapter5/model1/start/JpaMain.java,9\0\9026419693ee53b875daf1d6a559d6a50a662db5
 _
@@ -99,3 +97,5 @@ l
 <src/main/java/jpabook/chapter5/model1/model/entity/Item.java,c\c\ccf79b9bbe730eea916ffc04261b6dadea960ce5
 n
 >src/main/java/jpabook/chapter5/model1/model/entity/Member.java,1\a\1a81235c1caca78611ca64d77fa003308d151512
+m
+=src/main/java/jpabook/chapter5/model1/model/entity/Order.java,8\5\855a43d98f6e23658d96fbaad901fe48d4dd20ed
