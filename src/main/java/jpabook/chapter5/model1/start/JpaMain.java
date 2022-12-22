@@ -35,6 +35,7 @@ public class JpaMain {
 
         //등록
         em.persist(member);
+
         //수정
         member.setAge(20);
 
