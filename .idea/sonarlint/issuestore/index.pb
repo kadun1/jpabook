@@ -21,8 +21,6 @@ _
 /src/main/java/jpabook/chapter7/model2/Item.java,e\0\e060ac0582376d9a97ecb7aa1c379318cfae251e
 _
 /src/main/java/jpabook/chapter7/model3/Item.java,b\3\b342825e91bbc2a6f4957ce30d9ed3233891ce41
-e
-5src/main/java/jpabook/chapter7/model4/BaseEntity.java,9\2\925a9fd3a2727fcaf43a50f6f184102989d451bc
 `
 0src/main/java/jpabook/chapter7/model5/Child.java,2\3\23d7f968a84820738d48eb0b3f5c5e329928aafa
 _
@@ -99,3 +97,7 @@ m
 =src/main/java/jpabook/chapter5/model1/model/entity/Order.java,8\5\855a43d98f6e23658d96fbaad901fe48d4dd20ed
 q
 Asrc/main/java/jpabook/chapter5/model1/model/entity/OrderItem.java,6\4\6400afaf7b3791b4fb0f0c56330a79e61c7eba84
+`
+0src/main/java/jpabook/chapter7/model7/Child.java,1\7\17fd97ba0fdc9261ebace7d0cbd650fb0d248f2b
+b
+2src/main/java/jpabook/chapter7/model7/ChildId.java,8\0\80707fc393229f8a74126a4d69f8427fb233c190
